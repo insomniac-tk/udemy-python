@@ -4,7 +4,6 @@ These are running notes and code snippets that I had run on the notebook while w
 <hr>
 Here's some more info:  
 
-- [Python 3.7 Docs](https://docs.python.org/3/).<br>
+- [Python 3.7 Docs](https://docs.python.org/3/)<br>
 - [The Udemy Course](https://www.udemy.com/complete-python-bootcamp/)
-
-This site was built using [GitHub Pages](https://pages.github.com/).
+- [Learn python 3 in Y minutes!](https://learnxinyminutes.com/docs/python/)
