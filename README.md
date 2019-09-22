@@ -8,4 +8,7 @@ Here's some more info:
 - [The Udemy Course](https://www.udemy.com/complete-python-bootcamp/)
 - [Learn python 3 in Y minutes!](https://learnxinyminutes.com/docs/python/)
 - [Assessment Tests With Solutions!](https://github.com/insomniac-tk/udemy-python/tree/master/Assessment%20Tests)
+
+
+
 ![Python Logo](https://www.python.org/static/img/python-logo.png)
